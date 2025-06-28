@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+env/
+*.keras
+*.h5
+*.tflite
+
+# Compilación C++
+build/
+*.o
+*.so
+*.bin
+
